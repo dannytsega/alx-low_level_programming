@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - the main function to use sizeof
  *
  * Return: 0 if program success
